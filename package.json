@@ -1,0 +1,22 @@
+{
+  "name": "micasabackend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "express-fileupload": "^1.5.2",
+    "mailer": "^0.6.7",
+    "morgan": "~1.9.1",
+    "multer": "^2.0.2",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.15.3",
+    "node": "^25.5.0",
+    "nodemailer": "^7.0.13"
+  }
+}
